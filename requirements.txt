@@ -3,3 +3,5 @@ numpy
 Pillow
 tensorflow
 tqdm
+keras
+pandas
